@@ -13,3 +13,5 @@ hw_9_2_Control_Flow.ipynb - HW 5 - Домашнє завдання до теми
 hw_9_3_Цикл_for.ipynb HW 6 Домашнє завдання до теми "Цикл for"
 
 hw_9_3_Comprehensions HW 7 Домашнє завдання до теми "Comprehensions в Python"
+
+hw_9_3_Comprehensions HW 8 Домашнє завдання до теми "Comprehensions в Python"
