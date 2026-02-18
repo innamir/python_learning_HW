@@ -32,3 +32,5 @@ hw_10_3_Розширені_методи_обробки_даних_у_Pandas.ipyn
 
 hw_10_4_apply,_groupby,_pivot_table HW 16 Домашнє завдання до теми 'apply,_groupby,_pivot_table'.
 
+HW_11_1_Візуалізація_даних_з_Pandas_ipynb HW 17 Домашнє завдання до теми "Візуалізація даних з Pandas"
+
